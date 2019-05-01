@@ -3,7 +3,8 @@
 		
 		<body bgcolor = "#FFFFCC" text = "#660066">
 			<body>
-      			<p>This is paragraph one and should be on top</p>
+      			<h1>Emily Peterson, PhD Candidate</h1>
+			<h2> Specializing in Bayesian hierarchical models <h2>
       			<hr />
       			<p>This is paragraph two and should be at bottom</p>
    			</body>
@@ -23,7 +24,6 @@
 			<div class="container">
 			
 			{{ content }}
-				<div class="blurb">
 				<p>Try something different.</a></p>
     				</div><!-- /.blurb -->
 			
