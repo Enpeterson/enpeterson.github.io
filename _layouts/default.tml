@@ -17,11 +17,11 @@
 				<a href="/research statement">Research Statement</a>|
 	        		<a href="/cv">CV</a>|
 				<a href="/presentations">Presentations</a>|
-				<a href="/writing">Writing</a>|
+				<a href="/writing">Writing</a>
 	        		
 	    		</ul>
 			</nav>
-			<div class="container">
+		
 			
 			{{ content }}
 				<p>Try something different.</a></p>
