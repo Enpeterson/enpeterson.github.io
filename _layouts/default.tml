@@ -20,6 +20,9 @@
 			<div class="container">
 			
 			{{ content }}
+				<div class="blurb">
+				<p>Try something different.</a></p>
+    				</div><!-- /.blurb -->
 			
 			</div><!-- /.container -->
 			<footer>
