@@ -2,16 +2,11 @@
 	<html>
 		
 		<body bgcolor = "#e6e6e6" text = "#004b26">
-			<body>
-      			<h1>Emily Peterson, PhD Candidate</h1>
+			<h1>Emily Peterson, PhD Candidate</h1>
 			<h2> Focus in Bayesian hierarchical models <h2>
       			<hr />
       			<p>This is paragraph two and should be at bottom</p>
-   			</body>
-			
-			
-			<nav>
-	    		<ul>
+   	
 	        		
 		        	<a href="/about">About</a>|
 				<a href="/research statement">Research Statement</a>|
@@ -19,9 +14,7 @@
 				<a href="/presentations">Presentations</a>|
 				<a href="/writing">Writing</a>
 	        		
-	    		</ul>
-			</nav>
-		
+	    		
 			
 			{{ content }}
 				<p>Try something different.</a></p>
