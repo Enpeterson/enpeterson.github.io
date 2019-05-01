@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		
-		<body bgcolor = "0099CC">
+		<body bgcolor = "#0099CC" text = "#000099">
 			<body>
       			<p>This is paragraph one and should be on top</p>
       			<hr />
