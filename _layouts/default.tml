@@ -12,8 +12,8 @@
 			<nav>
 	    		<ul>
 	        		
-		        	<a href="/about">About</a></li>
-				<a href="/research statement">Research Statement</a><|
+		        	<a href="/about">About</a>|
+				<a href="/research statement">Research Statement</a>|
 	        		<a href="/cv">CV</a>|
 				<a href="/presentations">Presentations</a>|
 				<a href="/writing">Writing</a>|
