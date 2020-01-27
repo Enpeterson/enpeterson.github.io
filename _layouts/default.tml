@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 	<html>
 		
-		<body bgcolor = "#e6e6e6" text = "#004b26">
-			<h1>Emily Peterson, PhD Candidate</h1>
-			<h2> Focus in Bayesian hierarchical models <h2>
+		<body bgcolor = "#18A8CAA" text = "#070E7E">
+			<h1>Emily Peterson, PhD in Biostatistics</h1>
+			<h2> Research focus in Bayesian hierarchical models, population models, and national mortality estimation <h2>
       			<hr />
       			<p>This is paragraph two and should be at bottom</p>
    	
@@ -25,7 +25,6 @@
 	    		<ul>
 	        		<li><a href="mailto:epeterson.2010@gmail.com">email my gmail</a></li>
 				<li><a href="mailto:enpeterson@umass.edu">university email</a></li>
-	        		<li><a href="https://github.com/enpeterson">github.com/enpeterson</a></li>
 				</ul>
 			</footer>
 		</body>
