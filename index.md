@@ -1,8 +1,11 @@
-## Hello
+### Contact Information
 
-You can use the [editor on GitHub](https://github.com/Enpeterson/enpeterson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Emily N Peterson
+Department of Biostatistics and Bioinformatics
+Rollins School of Public Health
+Emory University
+1518 Clifton Rd., Atlanta, GA 30329
+(emily.nancy.peterson@emory.edu)
 
 ### Markdown
 
