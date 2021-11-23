@@ -60,8 +60,15 @@ I am passionate about developing statistical models and tools to assess spatial 
 - CDC Maternal Mortality Surveillance Group and Michael Kramer at Emory University Epidemiology Department 
 - Oregon State Marine Mammal Institute
 
-```{r, show=FALSE}
+```{r, show=FALSE, message =F }
 library(gapminder)
+library(ggplot2)
+library(sf)
+library("rnaturalearth")
+library("rnaturalearthdata")
+library("ggspatial")
+library(plotly)
+library("gapminder")
   data(gapminder, package = "gapminder")
   
 gg <- ggplot(gapminder, aes(gdpPercap, lifeExp, color = continent)) +
