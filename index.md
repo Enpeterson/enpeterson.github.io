@@ -46,8 +46,8 @@ I am passionate about developing statistical models and tools to assess spatial 
 - A Bayesian hierarchical small-area population model accounting for data source specific methods from American Community Survey, Population Estimates Program, and Decennial Census data.
 - A Bayesian hierarchical model to estimate the extent of reporting errors of maternal mortality by national vital registration systems
 ```
-<!-- <img src="https://github.com/Enpeterson/enpeterson.github.io/blob/main/docs/bmismaps.jpg" width="500" align = "right">
- -->
+<img src="https://github.com/Enpeterson/enpeterson.github.io/blob/main/docs/bmismaps.jpg" width="500" align = "right">
+
 
 ### Collaborations
 
