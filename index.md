@@ -60,7 +60,17 @@ I am passionate about developing statistical models and tools to assess spatial 
 - CDC Maternal Mortality Surveillance Group and Michael Kramer at Emory University Epidemiology Department 
 - Oregon State Marine Mammal Institute
 
+```{r, show=FALSE}
+library(gapminder)
+  data(gapminder, package = "gapminder")
+  
+gg <- ggplot(gapminder, aes(gdpPercap, lifeExp, color = continent)) +
+    geom_point(aes(size = pop, frame = year, ids = country)) +
+    scale_x_log10()
 
+  ggplotly(gg)
+
+```
 ### Publications
 ```diff
 - EN Peterson, G Guranich, J Cresswell, L Alkema. A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for misclassification errors. (In progress).
