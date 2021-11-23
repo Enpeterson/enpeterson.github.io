@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
 title: Emily N Peterson, PhD
 description: Department of Biostatistics and Bioinformatics, Emory University
-
+plugins:
+-jekyll-gist
