@@ -3,7 +3,7 @@
 
 ### Contact Information
 
-Emily N Peterson
+Emily Peterson
 
 Department of Biostatistics and Bioinformatics
 
