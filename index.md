@@ -50,7 +50,7 @@ I am passionate about developing statistical models and tools to assess spatial 
 
 
 ### Collaborations
-```diff
+
 - World Health Organization Maternal Mortality Interagency Group
 - Harvard T.H. Chan School of Public Health
 - UK Small Area Health Statistics Unit
@@ -58,7 +58,7 @@ I am passionate about developing statistical models and tools to assess spatial 
 - GA Department of Health
 - CDC Maternal Mortality Surveillance Group and Michael Kramer at Emory University Epidemiology Department 
 - Oregon State Marine Mammal Institute
-```
+
 
 ### Publications
 ```diff
@@ -84,6 +84,13 @@ I am passionate about teaching introductory courses in Biostatistics, Bayesian s
 - Teaching Assistant: “Introduction to Biostatistics”. University of Massachusetts. BIOSTATS 540. Spring 2016.
 ```
 
+### Interesting Books and Articles
+
+https://thriveglobal.com/stories/in-defense-of-old-ideas/
+
+https://www.youtube.com/watch?v=tvGkosE5A6w
+
+https://www.thinkglobalhealth.org/article/united-states-has-mommy-issues
 
 
 <!-- 
