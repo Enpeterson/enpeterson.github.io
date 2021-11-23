@@ -1,6 +1,5 @@
 
-![Emily Peterson 2 135 edit](https://user-images.githubusercontent.com/22241996/142932625-36ddf5b9-1f96-423f-996c-f78e69f9b6b1.jpg)
-
+<img src="https://user-images.githubusercontent.com/22241996/142932625-36ddf5b9-1f96-423f-996c-f78e69f9b6b1.jpg" width="500" align = "right">
 
 ### Contact Information
 
