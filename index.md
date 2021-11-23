@@ -85,6 +85,7 @@ I am passionate about teaching introductory courses in Biostatistics, Bayesian s
 ```
 
 ### Interesting Books and Articles
+https://covid19.healthdata.org/global?view=cumulative-deaths&tab=trend
 
 https://thriveglobal.com/stories/in-defense-of-old-ideas/
 
@@ -92,7 +93,7 @@ https://www.youtube.com/watch?v=tvGkosE5A6w
 
 https://www.thinkglobalhealth.org/article/united-states-has-mommy-issues
 
-
+https://natureworldtoday.com/dude-with-a-sign-is/8/
 <!-- 
 ```markdown
 Syntax highlighted code block
