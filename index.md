@@ -31,6 +31,7 @@ https://github.com/Enpeterson
 
 ## Research
 
+
 ### Primary Interests
 I am passionate about developing statistical models and tools to assess spatial demographic and population-level health trends for small areas. My research focus is in Bayesian hierarchical small area disease mapping models, spatial epidemiology, and statistical demography.
 
@@ -45,6 +46,8 @@ I am passionate about developing statistical models and tools to assess spatial 
 - A Bayesian hierarchical small-area population model accounting for data source specific methods from American Community Survey, Population Estimates Program, and Decennial Census data.
 - A Bayesian hierarchical model to estimate the extent of reporting errors of maternal mortality by national vital registration systems
 ```
+<img src="https://github.com/Enpeterson/enpeterson.github.io/blob/main/docs/bmismaps.jpg" width="500" align = "right">
+
 
 ### Collaborations
 ```diff
