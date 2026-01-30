@@ -103,6 +103,16 @@ My work supports public health agencies, Tribal Nations, and international organ
 ### Current Courses 
 ```diff
 - Emory BIOS 526: Modern Regression Methods
+- Topics covered
+-- Multilevel models
+-- Nonlinear models
+-- GEEs
+-- Splines
+-- GAMs
+-- Workflow Development
+
+![figure](/docs/gams.gif)
+
 ```
 
 ### Interesting Books and Articles
