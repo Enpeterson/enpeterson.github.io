@@ -73,6 +73,16 @@ My work supports public health agencies, Tribal Nations, and international organ
 
 
 
+## Featured Research
+
+### A Bayesian Hierarchical Small Area Population Model Accounting for Data Source Specific Methodologies From American Community Survey, Population Estimates Program, and Decennial Census Data
+
+![figure](/docs/figure_name.png)
+
+Short description of contribution.
+
+[Read the paper](link)
+
 ### Publications
 ```diff
 - EN Peterson, G Guranich, J Cresswell, L Alkema. A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for misclassification errors. (In progress).
