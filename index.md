@@ -17,7 +17,7 @@ Emory University
 
 https://github.com/Enpeterson
 
-
+[Download CV](/docs/Petrson_Emily_CV_2025.pdf)
 
 ## Education
 - Emory University, Atlanta, GA. 2020-2021. Post-Doctoral Fellowship. Postdoctoral mentor: Dr. Lance Waller.
