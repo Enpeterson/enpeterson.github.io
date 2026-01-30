@@ -13,11 +13,11 @@ Emory University
 
 1518 Clifton Rd., Atlanta, GA 30329
 
-[emily.nancy.peterson@emory.edu](emily.nancy.peterson@emory.edu)
+[emily.nancy.peterson@emory.edu](mailto:emily.nancy.peterson@emory.edu)
 
-https://github.com/Enpeterson
+[https://github.com/Enpeterson](https://github.com/Enpeterson)
 
-[Download CV](/docs/Peterson_Emily_CV_2025.pdf)
+[Download CV](/docs/Petrson_Emily_CV_2025.pdf)
 
 ## Education
 - Emory University, Atlanta, GA. 2020-2021. Post-Doctoral Fellowship. Postdoctoral mentor: Dr. Lance Waller.
