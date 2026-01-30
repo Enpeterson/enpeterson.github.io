@@ -98,7 +98,8 @@ My work supports public health agencies, Tribal Nations, and international organ
 - JF Schnelle, SF Simmons, L Beuscher, EN Peterson, R Habermann, F Leung. Prevalence of Constipation Symptoms in Nursing Home Residents. Journal of Gerontology. 2009.
 ```
 
- ## Teaching
+
+## Teaching
 
 ### Current Courses 
 ```diff
