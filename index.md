@@ -13,7 +13,7 @@ Emory University
 
 1518 Clifton Rd., Atlanta, GA 30329
 
-emily.nancy.peterson@emory.edu
+emily.nancy.peterson@emory.edu [email me](emily.nancy.peterson@emory.edu)
 
 https://github.com/Enpeterson
 
