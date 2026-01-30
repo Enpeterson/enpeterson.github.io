@@ -33,16 +33,24 @@ https://github.com/Enpeterson
 
 
 ### Primary Interests
-I am passionate about developing statistical models and tools to assess spatial demographic and population-level health trends for small areas. My research focus is in Bayesian hierarchical small area disease mapping models, spatial epidemiology, and statistical demography.
+I develop Bayesian statistical methods to improve the accuracy of population health data for small and historically underrepresented populations. My work focuses on correcting measurement error in mortality and demographic data, with applications to Tribal health, maternal mortality, and opioid surveillance. I specialize in Bayesian hierarchical modeling, spatial epidemiology, and statistical demography to produce policy-relevant estimates under data sparsity.
+
+### Research Themes
+- Bayesian hierarchical modeling for small-area population health
+- Measurement error correction in mortality and demographic data
+- Spatial and spatio-temporal epidemiology
+- Statistical demography and population estimation
+- Data science for public health surveillance systems
 
 
 
 ### Projects
 ```diff
-- A Bayesian small area disease mapping model to incorporate spatial uncertainty associated with small area population counts.
+- Data integration methods to estimate small area American Indian and Alaska Native mortality outcomes adjusting for measurement error.
+- A Bayesian Spatio-Temporal Top-Down Framework for Estimating Opioid Use Disorder Risk Under Data Sparsity.
+- Correcting Undercounting of GDM among Immigrant Women in Georgia.
 - A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for reporting errors. 
 - A Bayesian hierarchical small area misclassification model to estimate extent of misclassification errors of maternal mortality by U.S. Pregnancy Mortality Surveillance Systems. 
-- A Bayesian small area disease mapping model to estimate real-time small area estimates of crisis related deaths using innovative social mobility data
 - A Bayesian hierarchical small-area population model accounting for data source specific methods from American Community Survey, Population Estimates Program, and Decennial Census data.
 - A Bayesian hierarchical model to estimate the extent of reporting errors of maternal mortality by national vital registration systems
 ```
@@ -50,8 +58,12 @@ I am passionate about developing statistical models and tools to assess spatial 
  -->
 ![map](/docs/bmismaps.jpg)
 
+### Research Impact
+My work supports public health agencies, Tribal Nations, and international organizations in producing more accurate mortality and demographic estimates for policy and resource allocation. I collaborate with partners to translate statistical methods into practical surveillance tools that promote data equity and public health decision-making.
+
 ### Collaborations
 
+- Cherokee Nation Public Health
 - World Health Organization Maternal Mortality Interagency Group
 - Harvard T.H. Chan School of Public Health
 - UK Small Area Health Statistics Unit
@@ -75,15 +87,11 @@ I am passionate about developing statistical models and tools to assess spatial 
 - JF Schnelle, SF Simmons, L Beuscher, EN Peterson, R Habermann, F Leung. Prevalence of Constipation Symptoms in Nursing Home Residents. Journal of Gerontology. 2009.
 ```
 
-## Teaching
-I am passionate about teaching introductory courses in Biostatistics, Bayesian statistics, and Spatial statistics. I enjoy teaching students that come from various backgrounds, skill sets, and with a variety of interests an applications. My teaching philosophy is to engage students where they live, meaning make the topics we are teaching relevant and applied to their research area or interest, whether that is public policy, environmental science, and others. The most dynamic lectures have been those where students are able to see how statistical concepts are applicable in their field. 
+ ## Teaching
 
-### Courses 
+### Current Courses 
 ```diff
-- Teaching Assistant: “Introduction to Geographic Information Systems”. Emory University. INFO 530. Fall 2021.
-- Teaching Assistant: “Advanced Geographic Information Systems”. Emory University. INFO 532. Fall 2021.
-- Teaching Assistant: “Introduction to Bayesian Statistics”. University of Massachusetts.  BIOS 697. Spring 2017.
-- Teaching Assistant: “Introduction to Biostatistics”. University of Massachusetts. BIOSTATS 540. Spring 2016.
+- Emory BIOS 526: Modern Regression Methods
 ```
 
 ### Interesting Books and Articles
