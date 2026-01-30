@@ -77,9 +77,9 @@ My work supports public health agencies, Tribal Nations, and international organ
 
 ### A Bayesian Hierarchical Small Area Population Model Accounting for Data Source Specific Methodologies From American Community Survey, Population Estimates Program, and Decennial Census Data
 
-![figure](/docs/figure_name.png)
+![figure](/docs/nihms-2022707_Page_01.jpg)
 
-Short description of contribution.
+
 
 [Read the paper](link)
 
