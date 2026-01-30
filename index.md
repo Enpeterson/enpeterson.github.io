@@ -17,7 +17,6 @@ emily.nancy.peterson@emory.edu
 
 https://github.com/Enpeterson
 
- twitter @peterson_en
 
 
 ## Education
