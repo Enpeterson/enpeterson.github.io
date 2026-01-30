@@ -111,9 +111,8 @@ My work supports public health agencies, Tribal Nations, and international organ
 -- GAMs
 -- Workflow Development
 
-![figure](/docs/gams.gif)
-
 ```
+![figure](/docs/gams.gif)
 
 ### Interesting Books and Articles
 https://covid19.healthdata.org/global?view=cumulative-deaths&tab=trend
