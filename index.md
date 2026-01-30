@@ -80,6 +80,11 @@ My work supports public health agencies, Tribal Nations, and international organ
 ![figure](/docs/nihms-2022707_Page_01.jpg)
 [Read the paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423836/pdf/nihms-2022707.pdf)
 
+
+## What a DAG Can Tell Us
+![figure](/docs/nihms-2022707_Page_32.jpg)
+
+
 ### Publications
 ```diff
 - EN Peterson, G Guranich, J Cresswell, L Alkema. A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for misclassification errors. (In progress).
