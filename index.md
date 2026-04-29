@@ -44,17 +44,16 @@ I develop Bayesian statistical methods to improve the accuracy of population hea
 
 
 ### Projects
-```diff
+
 - Data integration methods to estimate small area American Indian and Alaska Native mortality outcomes adjusting for measurement error.
 - A Bayesian Spatio-Temporal Top-Down Framework for Estimating Opioid Use Disorder Risk Under Data Sparsity.
 - Correcting Undercounting of GDM among Immigrant Women in Georgia.
-- A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for reporting errors. 
-- A Bayesian hierarchical small area misclassification model to estimate extent of misclassification errors of maternal mortality by U.S. Pregnancy Mortality Surveillance Systems. 
+- A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for reporting errors.
+- A Bayesian hierarchical small area misclassification model to estimate extent of misclassification errors of maternal mortality by U.S. Pregnancy Mortality Surveillance Systems.
 - A Bayesian hierarchical small-area population model accounting for data source specific methods from American Community Survey, Population Estimates Program, and Decennial Census data.
-- A Bayesian hierarchical model to estimate the extent of reporting errors of maternal mortality by national vital registration systems
-```
-<!-- <img src="https://github.com/Enpeterson/enpeterson.github.io/blob/main/docs/bmismaps.jpg" width="500" align = "right">
- -->
+- A Bayesian hierarchical model to estimate the extent of reporting errors of maternal mortality by national vital registration systems.
+- BEACON: Bayesian Estimation and Correction for AI/AN Outcomes using Native-data — integrating Cherokee Nation clinical data with OSDH surveillance to estimate adjusted AI/AN gestational diabetes prevalence in Oklahoma.
+
 ![map](/docs/bmismaps.jpg)
 
 ### Research Impact
@@ -68,7 +67,7 @@ My work supports public health agencies, Tribal Nations, and international organ
 - UK Small Area Health Statistics Unit
 - University of Massachusetts Amherst
 - GA Department of Health
-- CDC Maternal Mortality Surveillance Group and Michael Kramer at Emory University Epidemiology Department 
+- CDC Maternal Mortality Surveillance Group and Michael Kramer at Emory University Epidemiology Department
 - Oregon State Marine Mammal Institute
 
 
@@ -86,42 +85,41 @@ My work supports public health agencies, Tribal Nations, and international organ
 
 
 ### Publications
-```diff
-- EN Peterson, G Guranich, J Cresswell, L Alkema. A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for misclassification errors. (In progress).
-- EN Peterson, RC Nethery, T Padellini, JT Chen, BA Coull, FB Piel, J Wakefield, M Blangiardo, L Waller. A Bayesian hierarchical small-area population model accounting for data source specific methodologies from American Community Survey, Population Estimates Program, and Decennial Census data. Journal of Applied Statistics (submitted).
-- EN Peterson, AB Moller, A Gemmill, D Chou, L Alkema. A Bayesian temporal hierarchical model to assess levels of misclassification error in national vital registration maternal mortality data. Statistics in Medicine (accepted).
-- RC Nethery, JT Chen, N Krieger, PD Waterman, EN Peterson, LA Waller, BA Coull. Statistical implications of endogeneity induced by residential segregation in small-area modelling of health inequities. The American Statistician (accepted).
-- NB Jain, JE Kuhn, GD Ayers, A Song, EN Peterson. Geographical Variation in Rates of Shoulder and Knee Arthroscopy in U.S. States and Relationship to Orthopedist Density in Surgeon Volume. JAMA. 2019. 11; 2(12).  doi: 10.1001/jamanetworkopen.2019.17315
-- NB Jain, GD Ayers, EN Peterson, MB Harris, L Morse, KC O'Connor, E Garshick.  Traumatic spinal cord injury in the United States, 1993-2012. JAMA. 2015. 9;313(22). 2236-43.
-- A Morandi, LM Solberg, R Habermann, P Cleeton, EN Peterson, EW Ely, J Schnelle. Documentation and Management of Words Associated with Delirium Among Elderly Patients in Postacute Care: A Pilot Investigation. JAMDA. 2009. 34-339.
-- S.F.Simmons, EN Peterson, C.You. The Accuracy of Monthly Weight Assessments in Nursing Homes: Implications for the Identification of Weight Loss. Journal of Nutrition, Health and Aging. 2009. 13, 3, 284-288.
-- JF Schnelle, SF Simmons, L Beuscher, EN Peterson, R Habermann, F Leung. Prevalence of Constipation Symptoms in Nursing Home Residents. Journal of Gerontology. 2009.
-```
+
+- EN Peterson, G Guranich, J Cresswell, L Alkema. A Bayesian approach to estimate maternal mortality using national civil registration vital statistics data accounting for misclassification errors. *(In progress)*
+- EN Peterson, RC Nethery, T Padellini, JT Chen, BA Coull, FB Piel, J Wakefield, M Blangiardo, L Waller. A Bayesian hierarchical small-area population model accounting for data source specific methodologies from American Community Survey, Population Estimates Program, and Decennial Census data. *Journal of Applied Statistics* (submitted).
+- EN Peterson, AB Moller, A Gemmill, D Chou, L Alkema. A Bayesian temporal hierarchical model to assess levels of misclassification error in national vital registration maternal mortality data. *Statistics in Medicine* (accepted).
+- RC Nethery, JT Chen, N Krieger, PD Waterman, EN Peterson, LA Waller, BA Coull. Statistical implications of endogeneity induced by residential segregation in small-area modelling of health inequities. *The American Statistician* (accepted).
+- NB Jain, JE Kuhn, GD Ayers, A Song, EN Peterson. Geographical Variation in Rates of Shoulder and Knee Arthroscopy in U.S. States and Relationship to Orthopedist Density in Surgeon Volume. *JAMA*. 2019. 11; 2(12). doi: 10.1001/jamanetworkopen.2019.17315
+- NB Jain, GD Ayers, EN Peterson, MB Harris, L Morse, KC O'Connor, E Garshick. Traumatic spinal cord injury in the United States, 1993-2012. *JAMA*. 2015. 9;313(22). 2236-43.
+- A Morandi, LM Solberg, R Habermann, P Cleeton, EN Peterson, EW Ely, J Schnelle. Documentation and Management of Words Associated with Delirium Among Elderly Patients in Postacute Care: A Pilot Investigation. *JAMDA*. 2009. 34-339.
+- SF Simmons, EN Peterson, C You. The Accuracy of Monthly Weight Assessments in Nursing Homes: Implications for the Identification of Weight Loss. *Journal of Nutrition, Health and Aging*. 2009. 13, 3, 284-288.
+- JF Schnelle, SF Simmons, L Beuscher, EN Peterson, R Habermann, F Leung. Prevalence of Constipation Symptoms in Nursing Home Residents. *Journal of Gerontology*. 2009.
+
+
+## Code & Software
+
+- [BEACON](https://github.com/Enpeterson/BEACON) — Reproducible demo scripts for Bayesian methods developed in collaboration with Tribal Nations. Synthetic data replicates analyses where original data cannot be shared due to Tribal data governance agreements.
 
 
 ## Teaching
 
-### Current Courses 
-```diff
-- Emory BIOS 526: Modern Regression Methods
-- Topics covered
--- Multilevel models
--- Nonlinear models
--- GEEs
--- Splines
--- GAMs
--- Workflow Development
+### Current Courses
 
-```
+- **Emory BIOS 526: Modern Regression Methods**
+  - Multilevel models
+  - Nonlinear models
+  - GEEs
+  - Splines
+  - GAMs
+  - Workflow Development
+
 ![figure](/docs/gams.gif)
 
 ### Interesting Books and Articles
-https://covid19.healthdata.org/global?view=cumulative-deaths&tab=trend
 
-https://thriveglobal.com/stories/in-defense-of-old-ideas/
-
-https://www.youtube.com/watch?v=tvGkosE5A6w
-
-https://www.thinkglobalhealth.org/article/united-states-has-mommy-issues
-
-https://natureworldtoday.com/dude-with-a-sign-is/8/
+- [IHME COVID-19 Global Cumulative Deaths](https://covid19.healthdata.org/global?view=cumulative-deaths&tab=trend)
+- [In Defense of Old Ideas](https://thriveglobal.com/stories/in-defense-of-old-ideas/)
+- [The United States Has Mommy Issues](https://www.thinkglobalhealth.org/article/united-states-has-mommy-issues)
+- [Dude With a Sign](https://natureworldtoday.com/dude-with-a-sign-is/8/)
+- [YouTube](https://www.youtube.com/watch?v=tvGkosE5A6w)
